@@ -1,0 +1,20 @@
+{
+  "name": "tgblw",
+  "version": "0.0.1",
+  "description": "bot",
+  "main": "js/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "js/index.js",
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@types/node": "^6.0.55",
+    "telegraf": "^3.6.4"
+  },
+  "devDependencies": {
+    "typescript": "^2.0.0"
+  }
+}
